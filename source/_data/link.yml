@@ -23,6 +23,10 @@
       link: https://github.com/jerryc127/hexo-theme-butterfly
       avatar: https://fastly.jsdelivr.net/gh/jerryc127/CDN/img/butterfly-github-avatar.png
       descr: '🦋 A Hexo Theme: Butterfly'
+    - name: 怕冷爱上雪
+      link: https://blog.4t.pw/
+      avatar: https://blog.4t.pw/img/favicon.webp
+      descr: 千里之行，始于足下。
 
 - class_name: '<i class="fas fa-fan" style="color:#00cccc;padding-right: 0.4rem"></i>示例'
   class_desc: '<span style="font-style: italic;">最可愛的朋友在這裏</span>'
